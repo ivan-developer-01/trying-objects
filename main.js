@@ -8,3 +8,5 @@ obj.e = { a: 1, b: "b" };
 obj.f = function () {
 	console.log("Hello World");
 };
+
+delete obj.d;
