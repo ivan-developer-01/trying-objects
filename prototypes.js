@@ -5,3 +5,5 @@ let student = {
 
 let studentJohn = Object.create(student);
 studentJohn.name = "John";
+
+console.log(student);
