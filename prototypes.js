@@ -8,3 +8,5 @@ studentJohn.name = "John";
 
 console.log(student);
 console.log(studentJohn);
+
+console.log(studentJohn.city);
