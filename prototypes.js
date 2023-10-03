@@ -11,4 +11,5 @@ console.log(studentJohn);
 
 console.log(studentJohn.city);
 
+// Warning! Object.__proto__ is deprecated and it is better to use obj.prototype
 console.log(studentJohn.__proto__);
