@@ -1,3 +1,4 @@
 let student = {
-	city: "Delhi"
+	city: "Delhi",
+	age: -1
 };
