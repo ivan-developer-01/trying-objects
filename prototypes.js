@@ -1,1 +1,3 @@
-let student = {};
+let student = {
+	city: "Delhi"
+};
