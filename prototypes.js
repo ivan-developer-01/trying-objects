@@ -10,3 +10,5 @@ console.log(student);
 console.log(studentJohn);
 
 console.log(studentJohn.city);
+
+console.log(studentJohn.__proto__);
